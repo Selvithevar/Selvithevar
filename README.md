@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Selvi Thevar!
 
-<!--
-**Selvithevar/Selvithevar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🧑‍💻 I’m a self-taught Python and Django developer with a **Bachelor of Science in Information Technology** from **SIES College of Commerce and Economics**.
+- 🐍 Python enthusiast with a love for clean, detailed code, and a tenacity to perfect every project.
+- 💡 An enthusiastic techie, always on the lookout for the next challenge in **Python** and **Django**.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- 🖥 **Machine Learning** to broaden my technical toolkit.
+- ⚙️ Working on deploying ML models on the web with **Django** and **React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django, React, Django REST Framework
+- **Data Science:** Pandas, NumPy, Scikit-Learn
+- **Tools:** Git, Docker, VS Code
+
+## 💬 Ask Me About
+- Python programming and Django development!
+- Tips on balancing code perfection with project deadlines.
+
+## 📊 GitHub Stats
+![Selvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selvithevar&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selvithevar&layout=compact&theme=radical)
+
+---
+
+### 📫 Let’s Connect
+- LinkedIn: [Selvi Thevar](https://www.linkedin.com/in/selvi-thevar-0514b8201)
+- GitHub: [github.com/Selvithevar](https://github.com/Selvithevar)
+- Email: selvithevat9326@gmail.com
