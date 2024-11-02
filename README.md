@@ -30,4 +30,4 @@
 ### 📫 Let’s Connect
 - LinkedIn: [Selvi Thevar](https://www.linkedin.com/in/selvi-thevar-0514b8201)
 - GitHub: [github.com/Selvithevar](https://github.com/Selvithevar)
-- Email: selvithevat9326@gmail.com
+- Email: selvithevar9326@gmail.com
