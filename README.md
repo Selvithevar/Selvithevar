@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Selvi Thevar!
 
 ## 🚀 About Me
-- 🧑‍💻 I’m a self-taught Python and Django developer with a **Master of Science DataScience** from **SIES College of Commerce and Economics**.
+- 🧑‍💻 I’m a self-taught Python and Django developer with a **Master of Science in DataScience** from **SIES College of Commerce and Economics**.
 - 🐍 Python enthusiast with a love for clean, detailed code, and a tenacity to perfect every project.
 - 💡 An enthusiastic techie, always on the lookout for the next challenge in **Python** and **Django**.
 
